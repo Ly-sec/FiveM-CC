@@ -1,0 +1,16 @@
+{
+  "name": "fivem-cache-cleaner",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Clears your GTA FiveM cache.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lysec",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.12"
+  }
+}
