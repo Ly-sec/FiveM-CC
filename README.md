@@ -38,6 +38,12 @@ Start the program
   npm start
 ```
 
+Publish it yourself
+
+```bash
+  npm run publish
+```
+
 
 
 ## Authors
