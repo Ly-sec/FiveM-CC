@@ -1,4 +1,7 @@
-![GUI Picture](https://i.imgur.com/RQDz2oE.png "GUI Picture")
+<p align="center">
+  <img src="https://i.imgur.com/RQDz2oE.png" alt="GUI"/>
+</p>
+
 # FiveM CC (FiveM Cache Cleaner)
 
 A simple GTA5 FiveM Cache cleaner written in NodeJS, using Electron.
